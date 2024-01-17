@@ -3,6 +3,7 @@ Here are my yearly Windows custom minimal ISOs. I will upload the previous ones 
 
 ## Laptop2024
 This year I needed to make an Win10 22H2 ISO for my new laptop. This ISO is a mix of debloating and keeping everything functionnal as I will not only be gaming on this computer.
+I used NTLite this time instead of MSMG Toolkit as MSMG doesn't support custom component removal since 22h2.
 
 No preinstalled apps but I left the camera, calculator etc... 
 I've removed a good but reasonable amount of services so that everything is still supposed to work.
