@@ -13,4 +13,4 @@ I left all the MS store and Xbox crap to leave everything functionnal.
 For more information, you can find the preset on the presets folder.
 Note : The installation language is french.
 
-Download : https://fastupload.io/y8fby7SxLKljLrv/file
+### [Download here](https://snowzu.cc/download.php?link=https://www.dropbox.com/scl/fi/nr8flxrnfbm0dkjony6pr/SnowZucc-Laptop2024.iso?rlkey=bpnqby1zrupdmx1oskvqu6bz6&dl=1)
